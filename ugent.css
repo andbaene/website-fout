@@ -1,0 +1,28 @@
+img{width: 550px;}
+
+.einde{background-color: #1E64C8;
+color: white;}
+
+dd{font-style: italic;}
+
+figcaption{font-style: italic;}
+
+time{float: right;}
+
+#ADB:hover{background-color: #FFD200;}
+
+legend{color: rgb(255,0,0);}
+
+.bron{padding-left: 40px;
+padding-right:40px;
+padding-top:5px;
+padding-bottom:5px;
+border:solid 2px silver;}
+
+aside{border-style: dotted;
+    border-color: rgb(30,100,200);
+    padding: 10px;
+    padding-left:15px;
+    width: 30%;
+    font-variant: small-caps;
+    float:right;}
